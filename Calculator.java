@@ -61,7 +61,7 @@ public class Calculator {
     }
     
     public static void main(String[] args) {
-        Scanner 1 = new Scanner(System.in);
+        Scanner scanner = new Scanner(System.in);
         boolean continueCalculating = true;
         
         System.out.println("Welcome to the Java Calculator!");
